@@ -122,6 +122,6 @@ To understand the methodologies and technologies used in this project, you may r
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact me at [your_email@example.com](jiven.chana@icloud.com).
+For any questions or suggestions, feel free to open an issue or contact me at [email](jiven.chana@icloud.com).
 
 ---
